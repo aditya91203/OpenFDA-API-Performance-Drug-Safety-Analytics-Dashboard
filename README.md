@@ -165,8 +165,3 @@ The output CSV contains the following columns:
 This project uses publicly available government data from the U.S. Food & Drug Administration via the OpenFDA platform. Data is provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
-
-## 🙋 Author
-
-**Aditya Achuthan**  
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
